@@ -7,11 +7,13 @@ $("#open").click(function(){
 	{
 		var typed = new Typed('.letter', {
 			strings: ["<br>^1000Dear&nbsp;&nbsp;雨晴", 
-				`<br><br>
-				<p style='text-align:center; display:block; width:100%;'>一二三四五六七</p>
-				<p style='text-align:center; display:block; width:100%;'>一二三四五六七</p>
-				<p style='text-align:center; display:block; width:100%;'>一二三四五六七</p>
-				<p style='text-align:center; display:block; width:100%;'>一二三四五六七</p>
+				`<br>
+				<p style='text-align:center; display:block; width:100%;'>七夕锦愿 </p>
+				<p style='height:10px'></p>
+				<p style='text-align:center; display:block; width:100%;'>王姝倩影出娉婷,</p>
+				<p style='text-align:center; display:block; width:100%;'>雨霁良辰伴生平.</p>
+				<p style='text-align:center; display:block; width:100%;'>晴河兰夜双星会,</p>
+				<p style='text-align:center; display:block; width:100%;'>乐向鹊桥缔长情.</p>
 				<p style='float:right; display:block; width:80px;'>^1000王潇</p>`],
 			typeSpeed: 100,
 			backSpeed: 50
